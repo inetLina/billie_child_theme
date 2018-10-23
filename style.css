@@ -1,0 +1,11 @@
+/*
+Theme Name: Billie Child Theme
+Theme URI: https://xn--nnting-iua.nu/
+Description: This is a custom child theme I have created.
+Author: Lina Rönnquist
+Author URI: https://xn--nnting-iua.nu/
+Template: billie
+Version: 0.1
+*/
+
+@import url("../billie/style.css");
